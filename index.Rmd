@@ -1,45 +1,38 @@
 ---
-title: "Sigríður Björndotter"
-image: "sigridur.jpg"
+title: "Wyclife Agumba Oluoch"
+image: "design.png"
 links:
-  - label: Resume
-    url: "https://linkedin.com/"
-  - label: Blog
-    url: "https://medium.com/"
-  - label: SoundCloud
-    url: "https://soundcloud.com/"
+  - label: Bonn-ZEF
+    url: "https://www.zef.de/index.php?id=2232&tx_zefportal_staff_info[ref]=2252&tx_zefportal_staff_info[uid]=1975&tx_zefportal_staff_profile[uid]=1975&no_cache=1"
+  - label: GitHub
+    url: "https://github.com/Wycology"
+  
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://twitter.com/WYCLIFEAGUMBA"
 output:
   postcards::solana
 ---
  
 ## Bio
 
-Sigríður Björndotter is a musician, vocalist, and live entertainment consultant
-living in Buenos Aires, Argentina. Her writing has appeared in Rolling Stone,
-Billboard, and NME, and she is a frequent contributor to National Public Radio's 
-*All Songs Considered*. She has been raising Pembroke Welsh Corgis since the age
-of six, and she has collected Casio watches since the age of ten.
+I am a Spatial Ecologist who uses ecological niche modeling applications to understand and explain influence of global change on distribution of species across the globe. In that process, I largely rely on big data and open source programming platforms such as R for ease of extensibility and reproducibility of all analytical steps.
 
 ## Education
 
-**INSEAD** | Fontainebleau, France
+**University of Bonn** | NRW - Bonn, Germany
 
-M.B.A. | August 2014 - June 2015
+PhD in Ecology and Natural Resource Management | October 2019 - Present
 
-**The Juilliard School** | New York, NY
+**Maseno University** | Maseno, Kenya
 
-B.F.A. in Music Performance | August 2005 - May 2009
+M.A. in Geography | September 2013 - December 2018
+
+**Moi University*** | Eldoret, Kenya
+
+B.A. in Geography | August 2008 - August 2012
 
 ## Experience
 
-**Freelance** | Live Entertainment Consultant | August 2018 - Present
+**Environmentalist Intern** | KALRO - Tea Research Institute | May 2015 - October 2019
 
-**Cercle** | Producer | August 2018 - Present
 
-**National Public Radio** | Producer | May 2015 - July 2018
-
-**NME Magazine** | Editor | July 2014 - July 2016
-
-**Iceland Symphony Orchestra** | Cellist | October 2009 - June 2014
