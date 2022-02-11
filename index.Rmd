@@ -6,16 +6,16 @@ links:
     url: "https://www.zef.de/index.php?id=2232&tx_zefportal_staff_info[ref]=2252&tx_zefportal_staff_info[uid]=1975&tx_zefportal_staff_profile[uid]=1975&no_cache=1"
   - label: GitHub
     url: "https://github.com/Wycology"
-  
   - label: Twitter
     url: "https://twitter.com/WYCLIFEAGUMBA"
+
 output:
-  postcards::solana
+  postcards::trestles
 ---
  
 ## Bio
 
-I am a Spatial Ecologist who uses ecological niche modeling applications to understand and explain influence of global change on distribution of species across the globe. In that process, I largely rely on big data and open source programming platforms such as R for ease of extensibility and reproducibility of all analytical steps.
+I am a Spatial Ecologist who uses **Ecological Niche Modeling** theory and applications to understand and explain influence of global change on distribution of species. In that process, I largely rely on big data and open source programming platforms such as R for ease of extensibility and reproducibility of all analytical steps.
 
 ## Education
 
