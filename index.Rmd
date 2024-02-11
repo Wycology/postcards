@@ -18,22 +18,64 @@ output:
 
 ## Bio
 
-I am a Geospatial Data Analyst who uses **Ecological Niche Modeling** concept and applications to understand and explain influence of global change on distribution of species. In that process, I largely rely on big data and open source programming platforms such as **`R`** for ease of extensibility and reproducibility of all analytical steps.
+I am a Geospatial Data Analyst who uses **Machine Learning** and **Deep Learning** approaches and applications to map biodiversity and field crops at local, regional, and global scales. These help in ensuring sustainable use of such resources and guiding relevant policy interventions. In that endeavor, I largely rely on big data on platforms such as **`R`**, **`Python`** and **`Google Earth Engine`**. I also embrace Shell scripting, High Performance Computing, and Cloud Computing with such big data.
 
 ## Experience
-**Postdoctoral researcher** \| Bonn - ILR Land Economics Group \| December 2023 - Present
-**Environmentalist Intern** \| KALRO - Tea Research Institute \| May 2015 - October 2019
+
+**University of Bonn** \| Bonn - ILR [Land Economics Group](https://www.ilr1.uni-bonn.de/en/research/research-groups/land-economics), \| NRW - Bonn, Germany
+
+Postdoctoral researcher \|  December 2023 - Present
+
+**KALRO - Tea Research Institute** \| [KALRO - Tea Research Institute](https://www.kalro.org/tea/) \| Kericho, Kenya
+
+Environmentalist Intern \|  May 2015 - October 2019
 
 ## Education
 
-**University of Bonn** \| NRW - Bonn, Germany
+**[University of Bonn](https://www.uni-bonn.de/en/university/university)** \| NRW - Bonn, Germany
 
 PhD in Ecology and Natural Resource Management \| October 2019 - Present
 
-**Maseno University** \| Maseno, Kenya
+**[Maseno University](https://www.maseno.ac.ke/)** \| Maseno, Kenya
 
 M.A. in Geography \| September 2013 - December 2018
 
-**Moi University** \| Eldoret, Kenya
+**[Moi University](http://mu.ac.ke/)** \| Eldoret, Kenya
 
 B.A. in Geography \| August 2008 - August 2012
+
+## Recent Publications 2020-Date
+
+1. Predicted changes in distribution and richness of wild edible plants under climate change scenarios in northwestern Kenya [link](https://link.springer.com/article/10.1007/s10113-023-02175-3).
+
+2. Integrated Participatory Approach Reveals Perceived Local Availability of Wild Edible Plants in Northwestern Kenya [link](https://doi.org/10.1007/s10745-023-00405-0).
+
+3. Indigenous communities’ perceptions reveal threats and management options of wild edible plants in semiarid lands of northwestern Kenya [link](https://doi.org/10.1186/s13002-023-00584-6).
+
+4. Predicting the potential impacts of climate change on the endangered endemic annonaceae species in east africa [link](https://doi.org/10.1016/j.heliyon.2023.e17405).
+
+5. Modeling impacts of climate change on the potential distribution of three endemic _Aloe_ species critically endangered in East Africa [link](https://doi.org/10.1016/j.ecoinf.2022.101765).
+
+6. Combating Climate Change in the Kenyan Tea Industry [link](https://doi.org/10.3389/fpls.2020.00339).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
