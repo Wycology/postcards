@@ -2,6 +2,8 @@
 title: "Wyclife Agumba Oluoch"
 image: "design.png"
 links:
+  - label: ILR-LandEconomics
+    url: "https://www.ilr1.uni-bonn.de/en/research/research-groups/land-economics"
   - label: Bonn-ZEF
     url: "https://www.zef.de/index.php?id=2232&tx_zefportal_staff_info[ref]=2252&tx_zefportal_staff_info[uid]=1975&tx_zefportal_staff_profile[uid]=1975&no_cache=1"
   - label: GitHub
@@ -18,9 +20,9 @@ output:
 
 I am a Geospatial Data Analyst who uses **Ecological Niche Modeling** concept and applications to understand and explain influence of global change on distribution of species. In that process, I largely rely on big data and open source programming platforms such as **`R`** for ease of extensibility and reproducibility of all analytical steps.
 
-I am a Spatial Ecologist who uses **Ecological Niche Modeling** concept and applications to understand and explain influence of global change on distribution of species. In that process, I largely rely on big data and open source programming platforms such as **`R`** for ease of extensibility and reproducibility of all analytical steps.
-
-I am a Geospatial Data Analyst who uses **Ecological Niche Modeling** concept and applications to understand and explain influence of global change on distribution of species. In that process, I largely rely on big data and open source programming platforms such as **`R`** for ease of extensibility and reproducibility of all analytical steps.
+## Experience
+**Postdoctoral researcher** \| Bonn - ILR Land Economics Group \| December 2023 - Present
+**Environmentalist Intern** \| KALRO - Tea Research Institute \| May 2015 - October 2019
 
 ## Education
 
@@ -35,7 +37,3 @@ M.A. in Geography \| September 2013 - December 2018
 **Moi University** \| Eldoret, Kenya
 
 B.A. in Geography \| August 2008 - August 2012
-
-## Experience
-
-**Environmentalist Intern** \| KALRO - Tea Research Institute \| May 2015 - October 2019
