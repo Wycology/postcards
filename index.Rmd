@@ -16,9 +16,9 @@ output:
   postcards::trestles
 ---
 
-## Bio
+## Who am I?
 
-I am a Geospatial Data Analyst who uses **Machine Learning** and **Deep Learning** approaches and applications to map biodiversity and field crops at local, regional, and global scales. These help in ensuring sustainable use of such resources and guiding relevant policy interventions. In that endeavor, I largely rely on big data on platforms such as **`R`**, **`Python`** and **`Google Earth Engine`**. I also embrace Shell scripting, High Performance Computing, and Cloud Computing with such big data.
+I am a Geospatial Data Analyst who uses **Machine Learning** and **Deep Learning** approaches and applications to map biodiversity and field crops at local, regional, and global scales. These help in ensuring sustainable use of such resources and guiding relevant policy interventions. In that endeavor, I largely rely on big data on platforms such as **`R`**, **`Python`** and **`Google Earth Engine`**. I also embrace Shell scripting, High Performance Computing, and Cloud Computing with such big data. Besides, these, I find fun in counter-intuitive debates around **whys** and **what ifs**.
 
 ## Experience
 
@@ -57,25 +57,3 @@ B.A. in Geography \| August 2008 - August 2012
 5. Modeling impacts of climate change on the potential distribution of three endemic _Aloe_ species critically endangered in East Africa [link](https://doi.org/10.1016/j.ecoinf.2022.101765).
 
 6. Combating Climate Change in the Kenyan Tea Industry [link](https://doi.org/10.3389/fpls.2020.00339).
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
