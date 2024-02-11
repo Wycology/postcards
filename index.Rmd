@@ -16,7 +16,11 @@ output:
 
 ## Bio
 
+<<<<<<< HEAD
 I am a Geospatial Analyst who uses **Ecological Niche Modeling** concept and applications to understand and explain influence of global change on distribution of species. In that process, I largely rely on big data and open source programming platforms such as **`R`** for ease of extensibility and reproducibility of all analytical steps.
+=======
+I am a Spatial Ecologist who uses **Ecological Niche Modeling** concept and applications to understand and explain influence of global change on distribution of species. In that process, I largely rely on big data and open source programming platforms such as **`R`** for ease of extensibility and reproducibility of all analytical steps.
+>>>>>>> 4cbd6bb56c06c6f40ee4dc8be1c42453f546120a
 
 ## Education
 
