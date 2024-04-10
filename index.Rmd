@@ -2,7 +2,7 @@
 title: "Wyclife Agumba Oluoch"
 image: "design.png"
 links:
-  - label: ILR-LandEconomics
+  - label: Land Economics Group
     url: "https://www.ilr1.uni-bonn.de/en/research/research-groups/land-economics"
   - label: Bonn-ZEF
     url: "https://www.zef.de/index.php?id=2232&tx_zefportal_staff_info[ref]=2252&tx_zefportal_staff_info[uid]=1975&tx_zefportal_staff_profile[uid]=1975&no_cache=1"
@@ -10,15 +10,23 @@ links:
     url: "https://github.com/Wycology"
   - label: RPubs
     url: "https://rpubs.com/Wyclife/"
-  - label: Twitter
+  - label: X
     url: "https://twitter.com/WYCLIFEAGUMBA"
+  - label: ORCiD
+    url: "https://orcid.org/0000-0003-0803-9279"
+  - label: Scopus
+    url: "https://www.scopus.com/authid/detail.uri?authorId=57216321263"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=vdcSD8kAAAAJ&hl=en&oi=ao"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/wyclife-oluoch-3924341b9/"
 output:
   postcards::trestles
 ---
 
 ## Who am I?
 
-I am a Geospatial Data Analyst who uses **Machine Learning** and **Deep Learning** approaches and applications to map biodiversity and field crops at local, regional, and global scales. These help in ensuring sustainable use of such resources and guiding relevant policy interventions. In that endeavor, I largely rely on big data on platforms such as **`R`**, **`Python`** and **`Google Earth Engine`**. I also embrace Shell scripting, High Performance Computing, and Cloud Computing with such big data. Besides, these, I find fun in counter-intuitive debates around **whys** and **what ifs**.
+I am a Geospatial Data Analyst who uses **Machine Learning** and **Deep Learning** approaches and applications to map biodiversity and field crops at local, regional, and global scales. These help in ensuring sustainable use of such resources and guiding relevant policy interventions. In that endeavor, I rely on big data on platforms such as **`R`**, **`Python`** and **`Google Earth Engine`**. I also embrace Shell scripting, High Performance Computing, and Cloud Computing with such big data. Besides these, I find fun in counter-intuitive debates around **whys** and **what ifs**.
 
 ## Experience
 
