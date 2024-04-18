@@ -24,11 +24,11 @@ output:
   postcards::trestles
 ---
 
-## Who am I?
+## `Who am I`?
 
 I am a Geospatial Data Analyst who uses **Machine Learning** and **Deep Learning** approaches and applications to map biodiversity and field crops at local, regional, and global scales. These help in ensuring sustainable use of such resources and guiding relevant policy interventions. In that endeavor, I rely on big data on platforms such as **`R`**, **`Python`** and **`Google Earth Engine`**. I also embrace Shell scripting, High Performance Computing, and Cloud Computing with such big data. Besides these, I find fun in counter-intuitive debates around **whys** and **what ifs**.
 
-## Experience
+## `Experience`
 
 **University of Bonn** \| Bonn - ILR [Land Economics Group](https://www.ilr1.uni-bonn.de/en/research/research-groups/land-economics), \| NRW - Bonn, Germany
 
@@ -38,7 +38,7 @@ Postdoctoral researcher \|  December 2023 - Present
 
 Environmentalist Intern \|  May 2015 - October 2019
 
-## Education Background
+## `Education Background`
 
 **[University of Bonn](https://www.uni-bonn.de/en/university/university)** \| NRW - Bonn, Germany
 
@@ -52,7 +52,7 @@ M.A. in Geography \| September 2013 - December 2018
 
 B.A. in Geography \| August 2008 - August 2012
 
-## Recent Publications 2020-Date
+## `Recent Publications 2020-Date`
 
 1. Predicted changes in distribution and richness of wild edible plants under climate change scenarios in northwestern Kenya [link](https://link.springer.com/article/10.1007/s10113-023-02175-3).
 
@@ -66,6 +66,26 @@ B.A. in Geography \| August 2008 - August 2012
 
 6. Combating Climate Change in the Kenyan Tea Industry [link](https://doi.org/10.3389/fpls.2020.00339).
 
-## Work in progress
+## `Work in progress`
 
-Impact of land degradation and climate change on livelihoods of **tea** and **coffee** farmers globally. In this, I create global maps of tea and coffee fields using high resolution satellite images and visually interpreted cropland polygons within deep learning and machine learning frameworks. The work is not only relevant for the livelihoods of the farmers but also in assessing amount of such crops coming from deforested lands as regulated in the European Commission Regulation on Deforestation-free products [link](https://environment.ec.europa.eu/topics/forests/deforestation/regulation-deforestation-free-products_en).
+1. Impact of land degradation and climate change on livelihoods of **tea** and **coffee** farmers globally. In this, I create global maps of tea and coffee fields using high resolution satellite images and visually interpreted cropland polygons within deep learning and machine learning frameworks. The work is not only relevant for the livelihoods of the farmers but also in assessing amount of such crops coming from deforested lands as regulated in the European Commission Regulation on Deforestation-free products [link](https://environment.ec.europa.eu/topics/forests/deforestation/regulation-deforestation-free-products_en).
+
+2. Evaluating the impact of land restoration project [Restor](https://restor.eco/?lat=26&lng=14.23&zoom=3) on net primary productivity and greenness globally. I am part of this project with a team from [Land Economics](https://www.ilr1.uni-bonn.de/en/research/research-groups/land-economics) group trying to evaluate whether the restored sites differ from synthetic controls by using a number of relevant variables.
+
+3. Detecting where mechanization agriculture is profitable across the globe. I am contributing in this project within the [Land Economics](https://www.ilr1.uni-bonn.de/en/research/research-groups/land-economics) group by tuning machine learning models. Knowing where in the globe mechanization is profitable is helpful in guiding policy recommendations for deploying mechanized activities in the field.
+
+4. Assessing the long term policy implications on bird species richness within grasslands across the globe. In this study within [Land Economics](https://www.ilr1.uni-bonn.de/en/research/research-groups/land-economics) group, my role is to help with machine learning model formulation to help reveal the relevance of policy changes on bird species richness.
+
+5. Evaluating the impact of weirs on ecosystem health within dry river valleys of Ethiopia. This is also a project within the [Land Economics](https://www.ilr1.uni-bonn.de/en/research/research-groups/land-economics) group where we check whether the ecosystem within the sub-catchments around weirs have better ecosystem health than the control sites. 
+
+
+
+
+
+
+
+
+
+
+
+
