@@ -42,7 +42,7 @@ Environmentalist Intern \|  May 2015 - October 2019
 
 **[University of Bonn](https://www.uni-bonn.de/en/university/university)** \| NRW - Bonn, Germany
 
-PhD in Ecology and Natural Resource Management \| October 2019 - Present
+Doctor of Agricultural Sciences (Dr. agr.) \| October 2019 - April 2024
 
 **[Maseno University](https://www.maseno.ac.ke/)** \| Maseno, Kenya
 
@@ -65,3 +65,28 @@ B.A. in Geography \| August 2008 - August 2012
 5. Modeling impacts of climate change on the potential distribution of three endemic _Aloe_ species critically endangered in East Africa [link](https://doi.org/10.1016/j.ecoinf.2022.101765).
 
 6. Combating Climate Change in the Kenyan Tea Industry [link](https://doi.org/10.3389/fpls.2020.00339).
+
+## Work in progress
+
+Impact of land degradation and climate change on livelihoods of tea and coffee farmers globally. In this, I map tea and coffee fields using high resolution satellite images and visually interpreted cropland polygons within deep learning and machine learning frameworks. The work is not only relevant for the livelihoods of the farmers but also in assessing amount of such crops coming from deforested lands as regulated in the European Commission Regulation on Deforestation-free products [link](https://environment.ec.europa.eu/topics/forests/deforestation/regulation-deforestation-free-products_en).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
