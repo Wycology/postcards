@@ -69,24 +69,3 @@ B.A. in Geography \| August 2008 - August 2012
 ## Work in progress
 
 Impact of land degradation and climate change on livelihoods of **tea** and **coffee** farmers globally. In this, I map tea and coffee fields using high resolution satellite images and visually interpreted cropland polygons within deep learning and machine learning frameworks. The work is not only relevant for the livelihoods of the farmers but also in assessing amount of such crops coming from deforested lands as regulated in the European Commission Regulation on Deforestation-free products [link](https://environment.ec.europa.eu/topics/forests/deforestation/regulation-deforestation-free-products_en).
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
