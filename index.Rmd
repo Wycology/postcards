@@ -80,4 +80,4 @@ B.A. in Geography \| August 2008 - August 2012
 
 ## **`CV`**
 
-![](D:/R/cv/cvv.pdf){width=100% height=400}
+![CV_WAO](D:/R/cv/cvv.pdf){width=100% height=400}
