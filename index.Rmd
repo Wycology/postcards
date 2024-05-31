@@ -1,6 +1,6 @@
 ---
 title: "Wyclife Agumba Oluoch"
-image: "design.png"
+image: "tea.jpg"
 links:
   - label: Land Economics Group
     url: "https://www.ilr1.uni-bonn.de/en/research/research-groups/land-economics"
@@ -21,7 +21,7 @@ links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/wyclife-oluoch-3924341b9/"
 output:
-  postcards::trestles
+  postcards::solana
 ---
 
 ## **`Who am I?`**
