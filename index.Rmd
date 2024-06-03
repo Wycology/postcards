@@ -28,6 +28,8 @@ output:
 
 I am a Geospatial Data Analyst who uses [**Machine Learning**]{style="color: blue;"} 💻 and [**Deep Learning**]{style="color: magenta;"} 🧠 approaches and applications to map [**biodiversity**]{style="color: darkgreen;"} 🌳🎋🐦🐟🦌 and [**field crops**]{style="color: lightgreen;"} 🧑‍🌾 at local, regional, and global scales 🌍. These help in ensuring sustainable use of such resources and guiding relevant policy interventions. In that endeavor, I rely on big data on platforms such as **`R`**, **`Python`** 🐍 and **`Google Earth Engine`**. I also embrace Shell scripting, High Performance Computing, and Cloud Computing with such big data. Besides, I find fun in counter-intuitive debates around **whys** and **what ifs**.
 
+![Tea shoots ready for harvest ](IMG_20240506_140755.jpg){width=90%}
+
 ## **`Experience`**
 
 **University of Bonn** \| Bonn - ILR [Land Economics Group](https://www.ilr1.uni-bonn.de/en/research/research-groups/land-economics), \| NRW - Bonn, Germany
@@ -71,6 +73,8 @@ B.A. in Geography \| August 2008 - August 2012
 1.  Impact of land degradation and climate change on livelihoods of **tea** and **coffee** farmers globally. In this, I create global maps of tea and coffee fields using high resolution satellite images and visually interpreted cropland polygons within deep learning and machine learning frameworks. The work is not only relevant for the [livelihoods]{style="color: red;"} of the farmers but also in assessing amount of such crops coming from deforested lands as regulated in the European Commission Regulation on Deforestation-free products [link](https://environment.ec.europa.eu/topics/forests/deforestation/regulation-deforestation-free-products_en).
 
 2.  Evaluating the impact of land restoration project [Restor](https://restor.eco/?lat=26&lng=14.23&zoom=3) on net primary productivity and greenness globally. I am part of this project with a team from [Land Economics](https://www.ilr1.uni-bonn.de/en/research/research-groups/land-economics) group trying to evaluate whether the restored sites differ from synthetic controls by using a number of relevant variables.
+
+![Restor (Source [Restor](https://restor.eco/?lat=26&lng=14.23&zoom=3))](Capture.PNG){width=90%}
 
 3.  Detecting where mechanization agriculture is profitable across the globe. I am contributing in this project within the [Land Economics](https://www.ilr1.uni-bonn.de/en/research/research-groups/land-economics) group by tuning machine learning models. Knowing where in the globe mechanization is profitable is helpful in guiding policy recommendations for deploying mechanized activities in the field.
 
