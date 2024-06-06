@@ -26,9 +26,9 @@ output:
 
 ## **`Who am I?`**
 
-I am a Geospatial Data Analyst who uses [**Machine Learning**]{style="color: blue;"} 💻 and [**Deep Learning**]{style="color: magenta;"} 🧠 approaches and applications to map [**biodiversity**]{style="color: darkgreen;"} 🌳🎋🐦🐟🦌 and [**field crops**]{style="color: lightgreen;"} 🧑‍🌾 at local, regional, and global scales 🌍. These help in ensuring sustainable use of such resources and guiding relevant policy interventions. In that endeavor, I rely on big data on platforms such as **`R`**, **`Python`** 🐍 and **`Google Earth Engine`**. I also embrace Shell scripting, High Performance Computing, and Cloud Computing with such big data. Besides, I find fun in counter-intuitive debates around **whys** and **what ifs**.
+I am a **Geospatial Computer Vision** expert who uses [**Machine Learning**]{style="color: blue;"} 💻 and [**Deep Learning**]{style="color: magenta;"} 🧠 approaches and applications to map [**biodiversity**]{style="color: darkgreen;"} 🌳🎋🐦🐟🦌 and [**field crops**]{style="color: brown;"} 🧑‍🌾 at local, regional, and global scales 🌍. These help in ensuring optimal monitoring of such resources and guiding relevant policy interventions. In that endeavor, I rely on big data on platforms such as **`R`**, **`Python`** 🐍 and **`Google Earth Engine`**. I also embrace Shell scripting, High Performance Computing, and Cloud Computing with such big data. I take neither coffee ☕ nor hot 🥵 spices 🌶️.
 
-![Tea shoots ready for harvest ](IMG_20240506_140755.jpg){width=90%}
+![Tea shoots ready for harvest](IMG_20240506_140755.jpg){width="90%"}
 
 ## **`Experience`**
 
@@ -74,7 +74,7 @@ B.A. in Geography \| August 2008 - August 2012
 
 2.  Evaluating the impact of land restoration project [Restor](https://restor.eco/?lat=26&lng=14.23&zoom=3) on net primary productivity and greenness globally. I am part of this project with a team from [Land Economics](https://www.ilr1.uni-bonn.de/en/research/research-groups/land-economics) group trying to evaluate whether the restored sites differ from synthetic controls by using a number of relevant variables.
 
-![Restor (Source [Restor](https://restor.eco/?lat=26&lng=14.23&zoom=3))](Capture.PNG){width=90%}
+![Restor (Source [Restor](https://restor.eco/?lat=26&lng=14.23&zoom=3))](Capture.PNG){width="90%"}
 
 3.  Detecting where mechanization agriculture is profitable across the globe. I am contributing in this project within the [Land Economics](https://www.ilr1.uni-bonn.de/en/research/research-groups/land-economics) group by tuning machine learning models. Knowing where in the globe mechanization is profitable is helpful in guiding policy recommendations for deploying mechanized activities in the field.
 
@@ -86,4 +86,4 @@ B.A. in Geography \| August 2008 - August 2012
 
 ## **`CV`**
 
-![CV_WAO](D:/R/cv/cvv.pdf){width=100% height=400}
+![CV_WAO](D:/R/cv/cvv.pdf){width="100%" height="400"}
