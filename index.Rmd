@@ -26,7 +26,7 @@ output:
 
 ## **`Who am I?`**
 
-I am a **Geospatial Computer Vision** expert who uses [**Machine Learning**]{style="color: blue;"} 💻 and [**Deep Learning**]{style="color: magenta;"} 🧠 approaches and applications to map [**biodiversity**]{style="color: darkgreen;"} 🌳🎋🐦🐟🦌 and [**field crops**]{style="color: brown;"} 🧑‍🌾 at local, regional, and global scales 🌍. These help in ensuring optimal monitoring of such resources and guiding relevant policy interventions. In that endeavor, I rely on big data on platforms such as **`R`**, **`Python`** 🐍 and **`Google Earth Engine`**. I also embrace Shell scripting, High Performance Computing, and Cloud Computing with such big data. I take neither coffee ☕ nor hot 🥵 spices 🌶️.
+I am a **Geospatial Data** expert who uses [**Machine Learning**]{style="color: blue;"} 💻 approaches and applications to map [**biodiversity**]{style="color: darkgreen;"} 🌳🎋🐦🐟🦌 and [**field crops**]{style="color: brown;"} 🧑‍🌾 at local, regional, and global scales 🌍. These help in ensuring optimal monitoring of such resources and guiding relevant policy interventions. In that endeavor, I rely on big data on platforms such as **`R`**, **`Python`** 🐍 and **`Google Earth Engine`**. I also embrace Shell scripting, High Performance Computing, and Cloud Computing with such big data. I take neither coffee ☕ nor hot 🥵 spices 🌶️.
 
 ![Tea shoots ready for harvest](IMG_20240506_140755.jpg){width="90%"}
 
